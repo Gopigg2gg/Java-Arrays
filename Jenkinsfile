@@ -1,3 +1,3 @@
 node {
-  echo 'hello world in the modi ass hole'
+  echo 'he modi ass hole'
 }
